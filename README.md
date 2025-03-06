@@ -4,3 +4,5 @@ Currently, I would love to work on my own projects for both my own personal inte
 - 🎮 I love pretty, story-driven indie games and would love to make my own.
 - 📺 I'd also like to grow a Twitch and YouTube channel and do things that I love.
 - 🌱 I’m currently learning Unity, and are trying to plan out some projects.
+
+My personal projects will go on my more official GitHub account named "aethyrius".
